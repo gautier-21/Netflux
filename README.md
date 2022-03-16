@@ -1,6 +1,7 @@
 # Netflux
 
 Netlfux est un site, presque ressemblant à son presque homonyme utilisant l'[API TVMAZE](https://www.tvmaze.com/api).
+
 Projet d'école réalisé en 2022.
 
 Lien du rendu : [Netflux](https://ggxm.github.io/Netflux/)
