@@ -4,9 +4,9 @@ Netlfux est un site, presque ressemblant à son presque homonyme utilisant l'[AP
 
 Projet d'école réalisé en 2022.
 
-Lien du rendu : [Netflux](https://ggxm.github.io/Netflux/)
+Lien du rendu : [Netflux](https://gautier-21.github.io/Netflux/)
 
-Équipe : [Baptiste Collignon](https://github.com/BCollignonEcv) | [Vincent Manach](https://github.com/Vincent-Manach) | [Gautier Maire](https://github.com/ggxm)
+Équipe : [Baptiste Collignon](https://github.com/BCollignonEcv) | [Vincent Manach](https://github.com/Vincent-Manach) | [Gautier Maire](https://github.com/gautier-21)
 
 
 ## Features
